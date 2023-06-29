@@ -34,22 +34,10 @@ Scope: Mobile Devices (iOS and Android)
 npm install
 ```
 
-#### OR
-
-```sh
-yarn install
-```
-
 ## Usage
 
 ```sh
 npm start
-```
-
-#### OR
-
-```sh
-yarn start
 ```
 
 ## Open Simulators
@@ -60,20 +48,8 @@ yarn start
 npm run ios
 ```
 
-#### OR
-
-```sh
-yarn ios
-```
-
 ### 2. Android
 
 ```sh
 npm run android
-```
-
-#### OR
-
-```sh
-yarn android
 ```
